@@ -1,7 +1,7 @@
 ## Author: Molla Hunegnaw Asmare
 ## Date: 27 April 2014
 ## The script tries to use cashed value of inversed Matrix to reduce cost of computation and avoids 
-##    repeatedly the matrix inverstion. 
+##    repeated matrix inverstion. 
 ## There  are two functions in the script:
 ##    1. makeCacheMatrix creates a special "matrix" object that can cache its inverse
 ##    2. cacheSolve: This function computes the inverse of the special "matrix" returned 
